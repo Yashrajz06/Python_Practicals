@@ -1,0 +1,14 @@
+
+#   **1 . Write a program that prints all unique combinations of 1 , 2 and 3
+#  ** 2 . Given a point (x,y) write a program to find out if it lies on the x-axis, y-axis or on the origin
+#  ** 3 . While purchasing certain items a discount of 10% is offered if the quantity purchased is more than 1000
+#       It quantity and price per item are input through the keyboard, write a program to calculate total expenses
+
+## Assignment for 3 ,4, 5, 6
+
+1. ** A five digit number is entered through the keyboard. Write a program to obtain the reverse number and to determine
+whether the original number and reverse numbers are equal or not
+2.** Write a program to check whether a triangle is valid or not. When the three angles of the triangle are
+entered through the keyboard, a triangle is valid if the sum of all the 3 angles is 180
+
+4. ** Write a program to print 24 hrs of day with suitable suffixes like AM / PM / Noon / MidNight

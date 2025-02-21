@@ -1,0 +1,14 @@
+A set contains names which begins with a or b. Write a program to separate out names in two sets. One with a
+and another containing beginning with b.
+
+2. Create a empty set. Write a program that adds five new names to this set, modifies one existing name
+   and deletes two existing names in it.
+
+3. What is the difference between the two set functions discard and remove.
+
+4. Write a program to create a set containing 10 random generated numbers in the range 15 to 45.
+    Count how many of these numbers are less than 30. Delete all numbers which are greater than 35.
+
+5. Which of the following is the correct way to create a empty set
+    s1 = ()  || s2 = {} What are the types of s1 and s2. How will you confirm the type?
+

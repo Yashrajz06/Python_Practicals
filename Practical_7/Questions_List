@@ -1,0 +1,16 @@
+
+# Write a program to create a list of 5 odd integers.
+Replace the telement with a list of 4 even integers.
+Flatten,sort and print the(b)
+Suppose a list contains 20 integers generated randomly.
+Receinumber from the keyboard and report position of all occurrencethis numberin the list.
+# (c) Suppose a list has 20 numbers. Write a program that removeduplicates from this list.
+# (d) Suppose a list contains positive and negative numbers. Wriprogram to create two lists—one containing positive numbersanother containing negative numbers.
+# (e) Suppose a list contains 5 strings. Write a program to converthese strings to uppercase.
+# (f) Write a program that converts list of temperatures in Fahrendegrees to equivalent Celsius degrees.
+# (g)Writeaprogramtoobtainamedianvalueofalistofnumb
+# (i) Suppose a list contains several words.
+# Write a program to cranother list that contains first character of each word present infirst list.
+# (j) A list contains 10 numbers. Write a program to eliminate duplicates from the list.
+# (k) Write a program to find the mean, median and mode of a list onumbers.
+

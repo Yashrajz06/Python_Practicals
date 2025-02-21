@@ -1,0 +1,19 @@
+// Dictionary
+
+1. Create a dictionary called students containing names and ages. Copy the dict into stud. Empty the
+    student dictionary as student stud contains the data.
+
+2. Create a list of cricketers use this list to create a dictionary in which the list value becomes key value
+    of the dictionary. Set the values of all keys to 50 in the dictionary created.
+
+3. Write the program to sort a dictionary in ascending or descending order by key and
+    ascending or descending by value.
+
+ 4. Write a program to create 3 dictionaries and concatenate them to create fourth dictionary.
+
+ 5. Create a dictionary containing names of students and marks obtained by them in three subjects.
+    Write a program to print these names in tabular form with started names as columns and marks in three
+    subjects listed below , Each student name as shown below
+
+ 6. Write a program that reads a string from the keyboard and creates dictionary containing frequency
+    of each character occuring in the string. ALso print these occurences in the form of historgram
