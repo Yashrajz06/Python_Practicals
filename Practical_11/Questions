@@ -1,3 +1,12 @@
-Built-in functions
-1. String
-2. Math
+1. Write a program that defines a function create_list() to create and return a list which is an
+    intersection of two lists passed to it.
+2. Write a program that defines a function sanitize_list() to remove duplicate entries
+       from the list that it receives.
+3. A 5 digit positive integer is entered to through the keyboard. Write a recursive function to calculate sum of digits of the
+	five digit numbers
+4. A positive integer is entered through the keyboard, define a recursive function that obtains
+    the prime factor of the number.
+5. Define a recursive function to obtain the first 25 numbers of a fibonacci series.
+    In a fibonacci sequence the sum of two successive terms is the third term.
+6. Write a program that defines a function count_lower_upper() that accepts a string and calculates the number of upper_case and lower_case
+	alphabets in it. It should return these values as a dictionary. Call these function for some sample strings

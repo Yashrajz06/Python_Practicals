@@ -1,0 +1,5 @@
+Types of arguments
+1. Required Argument
+2. Keyword Argument
+3. Default Argument
+4.
